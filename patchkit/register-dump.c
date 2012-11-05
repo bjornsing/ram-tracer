@@ -4,7 +4,7 @@
  * Modify the section name below and/or the linker script in order to
  * insert the patch at different addresses.
  *
- * --Micah Dowty <micah@navi.cx>
+ * --Micah Elizabeth Scott <beth@scanlime.org>
  */
 
 #define HOOK_SECTION_NAME  ".text.launcher_arm7_entry"

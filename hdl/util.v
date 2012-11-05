@@ -2,7 +2,7 @@
  *
  * Random utility modules.
  *
- * Micah Dowty <micah@navi.cx>
+ * Micah Elizabeth Scott <beth@scanlime.org>
  *
  ************************************************************************/
 

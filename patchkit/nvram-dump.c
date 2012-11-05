@@ -1,6 +1,6 @@
 /*
  * Patch which dumps out the DSi's NVRAM. Writes data to 'nvram.bin'.
- * --Micah Dowty <micah@navi.cx>
+ * --Micah Elizabeth Scott <beth@scanlime.org>
  */
 
 #define ARM7

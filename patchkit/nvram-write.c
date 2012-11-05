@@ -1,7 +1,7 @@
 /*
  * Patch which writes to the DSi's NVRAM. Overwrites the whole
  * flash chip with 128k of data from 'nvram.bin'.
- * --Micah Dowty <micah@navi.cx>
+ * --Micah Elizabeth Scott <beth@scanlime.org>
  */
 
 #define ARM7

@@ -2,7 +2,7 @@
  * decoder.c - Simple command-line decoder for memory trace logs.
  *             (Only for the new 32-bit log format)
  *
- * Copyright (C) 2009 Micah Dowty
+ * Copyright (C) 2009 Micah Elizabeth Scott
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -49,7 +49,7 @@ main(int argc, char **argv)
       fprintf(stderr,
               "\n"
               "RAM Trace Decoder, for new 32-bit trace logs.\n"
-              "-- Micah Dowty <micah@navi.cx>\n"
+              "-- Micah Elizabeth Scott <beth@scanlime.org>\n"
               "\n"
               "usage: %s <trace.raw> [<mem-image.bin>  [limit_time] ]\n"
               "\n", argv[0]);

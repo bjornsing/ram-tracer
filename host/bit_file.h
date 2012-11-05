@@ -6,7 +6,7 @@
  *              Thanks to Dave Sullins and his bitinfo utility for
  *              giving a good introduction to the header format.
  *
- * Copyright (C) 2004 Micah Dowty
+ * Copyright (C) 2004 Micah Elizabeth Scott
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal

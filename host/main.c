@@ -1,7 +1,7 @@
 /*
  * Main file for 'memhost', the command-line frontend for RAM tracing and patching.
  *
- * Copyright (C) 2009 Micah Dowty
+ * Copyright (C) 2009 Micah Elizabeth Scott
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -97,7 +97,7 @@ usage(const char *argv0)
            "  -S size:MB               Stop after MB megabytes of trace data received.\n"
            "  -S addr:ADDR             Stop when a hexadecimal address is touched.\n"
            "\n"
-           "Copyright (C) 2009 Micah Dowty <micah@navi.cx>\n",
+           "Copyright (C) 2009 Micah Elizabeth Scott <beth@scanlime.org>\n",
            argv0,
            DEFAULT_FPGA_BITSTREAM,
            CLOCK_FAST, CLOCK_DEFAULT, CLOCK_SLOW);

@@ -18,7 +18,7 @@
 # use 1.8v logic. In this design, those connections are all made on
 # separate I/O banks which take their VccO from the DSi's 1.8v power rail.
 #
-# -- Micah Dowty <micah@navi.cx>
+# -- Micah Elizabeth Scott <beth@scanlime.org>
 
 
 ########################################################

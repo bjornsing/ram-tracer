@@ -1,6 +1,6 @@
 /*
  * Trivial inlines for memory operations.
- * --Micah Dowty
+ * --Micah Elizabeth Scott
  */
 
 #include <stdint.h>

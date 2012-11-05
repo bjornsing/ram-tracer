@@ -2,7 +2,7 @@
  * memtrace_fmt.h - Definitions and inline functions for dealing with
  *                  the hardware memory tracer's log format.
  *
- * Copyright (C) 2009 Micah Dowty
+ * Copyright (C) 2009 Micah Elizabeth Scott
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
